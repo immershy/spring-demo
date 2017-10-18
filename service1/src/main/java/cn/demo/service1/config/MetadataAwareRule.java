@@ -1,4 +1,4 @@
-package cn.demo.reverseProxy.config;
+package cn.demo.service1.config;
 
 import com.netflix.loadbalancer.AbstractServerPredicate;
 import com.netflix.loadbalancer.AvailabilityPredicate;

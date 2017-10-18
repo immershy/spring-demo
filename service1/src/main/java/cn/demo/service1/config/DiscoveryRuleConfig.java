@@ -1,4 +1,4 @@
-package cn.demo.reverseProxy.config;
+package cn.demo.service1.config;
 
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

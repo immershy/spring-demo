@@ -20,13 +20,8 @@ public class Service0FallbackFactory implements FallbackFactory<Service0Client> 
         System.out.println("create:" + cause);
         return new Service0Client() {
             @Override
-            public String test(@PathVariable("userId") String userId, @PathVariable("sleepSec") int sleepSec) {
-                return "create fallback:" + userId + "," + sleepSec;
-            }
-
-            @Override
-            public String user(Service1Controller.User user) {
-                return "create fallback:" + user.toString();
+            public String test(String province) {
+                return "fallback";
             }
         };
     }
