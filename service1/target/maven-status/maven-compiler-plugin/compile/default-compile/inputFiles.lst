@@ -1,0 +1,5 @@
+/Users/zhengwei/Work/code/spring-cloud-demo/service1/src/main/java/cn/demo/service1/Application.java
+/Users/zhengwei/Work/code/spring-cloud-demo/service1/src/main/java/cn/demo/service1/controller/Service1Controller.java
+/Users/zhengwei/Work/code/spring-cloud-demo/service1/src/main/java/cn/demo/service1/client/Service0Client.java
+/Users/zhengwei/Work/code/spring-cloud-demo/service1/src/main/java/cn/demo/AbstractController.java
+/Users/zhengwei/Work/code/spring-cloud-demo/service1/src/main/java/cn/demo/service1/client/fallback/factory/Service0FallbackFactory.java

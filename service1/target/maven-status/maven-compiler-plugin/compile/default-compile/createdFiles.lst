@@ -1,0 +1,8 @@
+cn/demo/service1/controller/Service1Controller.class
+cn/demo/AbstractController.class
+cn/demo/service1/controller/Service1Controller$User.class
+cn/demo/service1/client/fallback/factory/Service0FallbackFactory.class
+cn/demo/service1/client/Service0Client.class
+cn/demo/service1/controller/Service1Controller$Student.class
+cn/demo/service1/Application.class
+cn/demo/service1/client/fallback/factory/Service0FallbackFactory$1.class
