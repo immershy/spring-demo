@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: service0
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8080/eureka/  #注册中心地址
+  instance:
+    hostname: localhost
+    instance-id: http://localhost:8090
+    metadata-map:
+      province: zhengjiang
+server:
+  port: 8090
